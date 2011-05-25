@@ -27,7 +27,7 @@ lt:
     loading…:             "Įkraunama…"
     nested_for_model:     "{{nested_model}} for {{parent_model}}"
     next:                 "Kitas"
-    no_entries:           "Įrašų nėra"
+    no_entries:           "Įrašų nerasta"
     omit_header:          "Omit Header"
     options:              "Pasirinktys"
     pdf:                  "PDF"
